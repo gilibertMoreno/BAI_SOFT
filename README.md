@@ -1,5 +1,5 @@
 
-Sistema de inventario y facturacion hecho con Django/ Stock and bill system made with Django
+Sistema de inventario y facturacion hecho con Django
 
 El sistema permite realizar operaciones basicas de inventario y facturacion:
 
